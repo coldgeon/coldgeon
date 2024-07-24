@@ -1,5 +1,7 @@
 ## Hi 👋 
-## I'm Cold Gun 🥶🔫
+## I'm Cold Gun 🥶🔫 
+- 안녕하세요 찬총이라 합니다. 먼 길 오신 손님께 누추하지만.. 제 레포 한 잔 하시고 가세요..☕
+
 <!--<a href="버튼을 눌렀을 때 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/뱃지레이블-배경색?style=뱃지모양&logo=로고&logoColor=로고색상"/></a> !-->
 ### SNS
 <a href="#" target="_blank"><img src="https://img.shields.io/badge/GitHub-black?style=plastic&logo=GitHub&logoColor=white&logoSize=amg&color=%23181717"/></a>
