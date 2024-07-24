@@ -19,10 +19,13 @@
 <br>
 
 
-
+### Contribute
 - UMC-6th 울산대 Web front developer
 - 9oormthonUNIV-3th 울산대 Web front developer
 
+
+### I'm now...
+- 프로필 열심히 꾸미는 즁~^.^
 
 <!--
 **coldgeon/coldgeon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
