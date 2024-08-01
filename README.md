@@ -16,8 +16,6 @@
 <br>
 
 # 🌟Contact
-
-<hr>
 <div>
     <a href="#" target="_blank"><img src="https://img.shields.io/badge/GitHub-black?style=plastic&logo=GitHub&logoColor=white&logoSize=amg&color=%23181717"/></a>
     <a href="#" target="_blank"><img src="https://img.shields.io/badge/instagram-white?style=plastic&logo=Instagram&logoColor=white&logoSize=amg&color=%23E4405F"/></a>
@@ -27,9 +25,8 @@
 <br>
 <br>
 
-### 📒Tech
+# 📒Tech
 
-<hr>
 <a href="#" target="_blank"><img src="https://img.shields.io/badge/React-black?style=for-the-badge&logo=react&logoColor=black&color=%2361DAFB"/></a>
 <a href="#" target="_blank"><img src="https://img.shields.io/badge/Recoil-white?style=for-the-badge&logo=recoil&logoColor=black&color=%233578E5"/></a>
 <a href="#" target="_blank"><img src="https://img.shields.io/badge/typescript-blue?style=for-the-badge&logo=typescript&logoColor=black&logoSize=amg&color=%233178C6"/></a>
