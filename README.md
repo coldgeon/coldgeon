@@ -46,9 +46,13 @@
 <br>
 <br>
 
-# I'm now...
+# 🌈 I'm now ...
 
 - 프로필 열심히 꾸미는 즁~^.^
+
+# 🌱 I’m currently learning ...
+
+- NextJs(v.14) 공부 중 !
 
 <!--
 **coldgeon/coldgeon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
