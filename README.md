@@ -58,6 +58,7 @@
 # 🌱 I’m currently learning ...
 
 - NextJs(v.14) 공부 중 !
+- TypeScript 공부 중 !
 
 <br>
 <br>
