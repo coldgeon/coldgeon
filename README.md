@@ -43,6 +43,7 @@
 # Contribute
 
 - UMC-6th 울산대 Web front developer
+- UMC-7th 울산대 Web front developer
 - 9oormthonUNIV-3th 울산대 Web front developer
 
 <br>
