@@ -51,13 +51,14 @@
 
 # 🌈 I'm now ...
 
-- 프로필 열심히 꾸미는 즁~^.^
+- 학교 공부하느라 개발은 뒷전....
 
 <br>
 <br>
 
 # 🌱 I’m currently learning ...
 
+- zustand 배우쟈
 - NextJs(v.14) 공부 중 !
 - TypeScript 공부 중 !
 
