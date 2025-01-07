@@ -51,15 +51,14 @@
 
 # 🌈 I'm now ...
 
-- 학교 공부하느라 개발은 뒷전....
+- 하기실타ㅏㅏㅏㅏㅏㅏㅏㅏㅏㅏㅏㅏㅏㅏㅏㅏ
 
 <br>
 <br>
 
 # 🌱 I’m currently learning ...
 
-- zustand 배우쟈
-- NextJs(v.14) 공부 중 !
+- zustand 배우자ㅏ
 - TypeScript 공부 중 !
 
 <br>
