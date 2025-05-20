@@ -28,12 +28,12 @@
 <br>
 
 # 📒Tech
-<a href="#" target="_blank"><img src="https://img.shields.io/badge/Javascript-F7DFE?style=for-the-badge&logo=javascript&logoColor=white&logoSize=amg&color=white"/></a>
+<a href="#" target="_blank"><img src="https://img.shields.io/badge/Javascript-F7DFE?style=for-the-badge&logo=javascript&logoColor=white&logoSize=amg"/></a>
 <a href="#" target="_blank"><img src="https://img.shields.io/badge/React-black?style=for-the-badge&logo=react&logoColor=black&color=%2361DAFB"/></a>
 <a href="#" target="_blank"><img src="https://img.shields.io/badge/Recoil-white?style=for-the-badge&logo=recoil&logoColor=black&color=%233578E5"/></a>
 <a href="#" target="_blank"><img src="https://img.shields.io/badge/typescript-blue?style=for-the-badge&logo=typescript&logoColor=black&logoSize=amg&color=%233178C6"/></a>
 <a href="#" target="_blank"><img src="https://img.shields.io/badge/styledcomponents-pink?style=for-the-badge&logo=styled-components&logoColor=black&logoSize=amg&color=%23DB7093"/></a>
-<a href="#" target="_blank"><img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=black&logoSize=amg&color=white"/></a>
+<a href="#" target="_blank"><img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=black&logoSize=amg"/></a>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=coldgeon&layout=compact&theme=dark#gh-dark-mode-only)
 
 <br>
