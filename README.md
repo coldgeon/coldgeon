@@ -45,21 +45,18 @@
 - UMC-6th 울산대 Web front developer
 - UMC-7th 울산대 Web front developer
 - 9oormthonUNIV-3th 울산대 Web front developer
-
+- 9oormthonUNIV-4th 울산대 Backend developer
 <br>
 <br>
 
 # 🌈 I'm now ...
-
-- 하기실타ㅏㅏㅏㅏㅏㅏㅏㅏㅏㅏㅏㅏㅏㅏㅏㅏ
+-ㅜㅜ..어렵다..
 
 <br>
 <br>
 
 # 🌱 I’m currently learning ...
-
-- zustand 배우자ㅏ
-- TypeScript 공부 중 !
+-spring boot 3 배우는 중!
 
 <br>
 <br>
