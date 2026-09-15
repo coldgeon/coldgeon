@@ -1,93 +1,69 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=17c0eb&height=300&section=header&text=🥶🔫's%20GitHub&fontSize=80)
+<div align="center">
 
-<h2 align="center">Hi👋 I'm Cold Gun 🥶🔫</h2>
-<h1 align="center">Welcome to My GitHub! </h1>
+# Hi, I'm Cold Gun 🥶🔫
 
-<br>
+프론트엔드에서 시작해 백엔드와 AI까지 경험을 넓혀 가는 개발자입니다.
 
-- 안녕하세요 찬총이라 합니다. 먼 길 오신 손님께 누추하지만.. 제 레포 한 잔 하시고 가세요..☕
+[![GitHub](https://img.shields.io/badge/GitHub-coldgeon-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/coldgeon)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-000000?style=flat-square&logo=vercel&logoColor=white)](https://portfolio-coldgeons-projects.vercel.app)
 
-<br>
-
-[![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=coldgeon&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
-
-<!--<a href="버튼을 눌렀을 때 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/뱃지레이블-배경색?style=뱃지모양&logo=로고&logoColor=로고색상"/></a> !-->
-
-<br>
-<br>
-<br>
-
-# 🌟Contact
-<div>
-    <a href="#" target="_blank"><img src="https://img.shields.io/badge/GitHub-black?style=plastic&logo=GitHub&logoColor=white&logoSize=amg&color=%23181717"/></a>
-    <a href="#" target="_blank"><img src="https://img.shields.io/badge/instagram-white?style=plastic&logo=Instagram&logoColor=white&logoSize=amg&color=%23E4405F"/></a>
-    <a href="#" target="_blank"><img src="https://img.shields.io/badge/discord-black?style=plastic&logo=Discord&logoColor=black&logoSize=amg&color=%235865F2"/></a>
 </div>
 
-<br>
-<br>
+---
 
-# 📒Tech
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=coldgeon&layout=compact&theme=dark#gh-dark-mode-only)
+## 👋 About Me
 
-## Front
-<a><img src="https://img.shields.io/badge/html5-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white" /></a>
-<img src="https://img.shields.io/badge/css3-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white" />
-<a href="#" target="_blank"><img src="https://img.shields.io/badge/Javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white&logoSize=amg"/></a>
-<a href="#" target="_blank"><img src="https://img.shields.io/badge/React-black?style=for-the-badge&logo=react&logoColor=black&color=%2361DAFB"/></a>
-<a href="#" target="_blank"><img src="https://img.shields.io/badge/Recoil-white?style=for-the-badge&logo=recoil&logoColor=black&color=%233578E5"/></a>
-<a href="#" target="_blank"><img src="https://img.shields.io/badge/typescript-blue?style=for-the-badge&logo=typescript&logoColor=black&logoSize=amg&color=%233178C6"/></a>
-<img src="https://img.shields.io/badge/styled--components-%23DB7093.svg?&style=for-the-badge&logo=styled-components&logoColor=white" />
+안녕하세요, 찬총입니다. 사용자에게 자연스러운 경험을 제공하는 웹 서비스를 만들고 있습니다.
+프론트엔드와 백엔드를 함께 공부하며, 최근에는 AI Agent를 활용한 서비스 개발에도 관심을 넓히고 있습니다.
 
+## 🌟 Contact
 
-## Back
-<a href="#" target="_blank"><img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=black&logoSize=amg"/></a>
-<a href="#" target="_blank"><img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=black&logoSize=amg"/></a>
-<img src="https://img.shields.io/badge/mysql-%234479A1.svg?&style=for-the-badge&logo=mysql&logoColor=white" />
+- GitHub: [@coldgeon](https://github.com/coldgeon)
+- Portfolio: [portfolio-coldgeons-projects.vercel.app](https://portfolio-coldgeons-projects.vercel.app)
 
-## Collab
-<a><img src="https://img.shields.io/badge/notion-%23000000.svg?&style=for-the-badge&logo=notion&logoColor=white" /></a>
-<img src="https://img.shields.io/badge/figma-%23F24E1E.svg?&style=for-the-badge&logo=figma&logoColor=white" />
-<img src="https://img.shields.io/badge/discord-%237289DA.svg?&style=for-the-badge&logo=discord&logoColor=white" />
+## 📒 Tech Stack
 
+### Frontend
 
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=000000)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=000000)
+![Recoil](https://img.shields.io/badge/Recoil-3578E5?style=flat-square&logo=recoil&logoColor=white)
+![Styled Components](https://img.shields.io/badge/Styled_Components-DB7093?style=flat-square&logo=styledcomponents&logoColor=white)
 
-<br>
-<br>
-<br>
+### Backend
 
-# Contribute
+![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
-- UMC-6th 울산대 Web front developer
-- UMC-7th 울산대 Web front developer
-- 9oormthonUNIV-3th 울산대 Web front developer
-- 9oormthonUNIV-4th 울산대 Backend developer
-<br>
-<br>
+### Collaboration & Tools
 
-# 🌈 I'm now ...
--ㅜㅜ..어렵다..
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![Notion](https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
+![Discord](https://img.shields.io/badge/Discord-5865F2?style=flat-square&logo=discord&logoColor=white)
 
-<br>
-<br>
+## 🌱 Contribution Graph
 
-# 🌱 I’m currently learning ...
--spring boot 3 배우는 중!
+![3D contribution graph](./profile-3d-contrib/profile-green-animate.svg)
 
-<br>
-<br>
+## 🤝 Contribute
 
-<!--
-**coldgeon/coldgeon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- UMC 6th 울산대학교 Web Frontend Developer
+- UMC 7th 울산대학교 Web Frontend Developer
+- 9oormthonUNIV 3rd 울산대학교 Web Frontend Developer
+- 9oormthonUNIV 4th 울산대학교 Backend Developer
 
-Here are some ideas to get you started:
+## 🌈 I'm Now
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 프론트엔드와 백엔드를 연결하는 웹 서비스를 만들고 있습니다.
+- 작은 기능도 사용자의 흐름과 유지보수성을 함께 고민하며 구현합니다.
+
+## 🌱 I'm Currently Learning
+
+- Spring Boot 3
+- AI Agent 기반 서비스 개발
