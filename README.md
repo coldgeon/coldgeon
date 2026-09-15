@@ -1,5 +1,7 @@
 <div align="center">
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=17c0eb&height=260&section=header&text=Cold%20Gun%27s%20GitHub&fontSize=58&fontColor=ffffff&animation=fadeIn" width="100%" alt="Cold Gun's GitHub header" />
+
 # Hi, I'm Cold Gun 🥶🔫
 
 프론트엔드에서 시작해 백엔드와 AI까지 경험을 넓혀 가는 개발자입니다.
